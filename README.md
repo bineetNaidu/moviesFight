@@ -7,7 +7,8 @@ Get all information of any Movies and compare. The site use [bulma.io](https://b
 Clone the Repo.
 
 ```bash
-pip install foobar
+git clone https://github.com/bineetNaidu/moviesFight
+cd moviesFight
 ```
 
 ## Usage
